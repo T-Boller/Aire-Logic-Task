@@ -6,5 +6,8 @@ The files included here aren't my own, the code was sourced from a Youtube chann
 My contribution to this app has been the bucket information i'm writing to, including programmatic access via an iam user, and comments that i wrote both to ensure that I understand roughly how the app functions, but also to display it to others which I hope it achieves.
 I felt quite panicked when I intially saw the task, and to some extent I still do, but I feel much more comfortable being honest than I do trying to pass off others way as my own.
 I intent to spend the rest of my time looking at how containerisation would've factored into this so that I can at least bring to the table further understanding on the other processes involved that I wasn't able to factor into this task.
+
+Also, for this to work it requires the Access Key and Secret Access Key attributed to the iam role that has permissions to write to an S3 which is included in an .env file that I haven't included in a public repo for obvious reasons
 Thank you, Tom.
+
 
